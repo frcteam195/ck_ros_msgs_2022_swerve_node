@@ -12,4 +12,5 @@ float32 target_total_speed_m_s
 float32 actual_total_speed_m_s
 float32 target_angular_speed_deg_s
 float32 compensated_target_angular_speed_deg_s
+float32 heading_absolute_compensated_angular_speed_deg_s
 float32 actual_angular_speed_deg_s
